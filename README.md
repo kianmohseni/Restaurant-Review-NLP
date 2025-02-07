@@ -10,10 +10,6 @@ This repository contains the Restaurant Review NLP.ipynb Jupyter Notebook, which
 
 **README.md:** Documentation file providing an overview of the project.
 
-**train.csv:** Training dataset containing labeled restaurant reviews.
-
-**test.csv:** Test dataset for model evaluation.
-
 ## Requirements
 
 To run this notebook, install the following dependencies:
